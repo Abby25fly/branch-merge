@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Creando nuevos cambios en el master
+=======
+Creando una nueva rama
+
